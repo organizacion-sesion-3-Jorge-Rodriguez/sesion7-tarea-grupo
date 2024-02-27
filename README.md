@@ -1,1 +1,1 @@
-# sesion7-tarea-grupo
+En grupos de 2 personas, realizar un programa para una tienda de coches: Si el coche a la venta es un ford fiesta, el descuento es de un 5%. Si el coche a la venta es un ford focus, el descuento es del 10%. El usuario introduce el artículo (o su código) y el programa saca el descuento correspondiente por pantalla.
